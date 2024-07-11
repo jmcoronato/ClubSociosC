@@ -1,0 +1,389 @@
+# depslib dependency file v1.0
+1700254975 source:c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\algoritmos\tp\programasocios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1700255015 c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\algoritmos\tp\programasocios\funciones.h
+
+1700931406 source:c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\algoritmos\algoritmos_fc\programasocios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1700931428 c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\algoritmos\algoritmos_fc\programasocios\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"../GenerarIndice/Indice.h"
+	"../GenerarIndice/Socios.h"
+	"../GenerarIndice/Fecha.h"
+
+1700522634 c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\algoritmos\algoritmos_fc\generarindice\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+
+1700516878 c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\algoritmos\algoritmos_fc\generarindice\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699568418 c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\algoritmos\algoritmos_fc\generarindice\socios.h
+	"Fecha.h"
+
+1699564922 c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\algoritmos\algoritmos_fc\generarindice\fecha.h
+
+1700931501 source:c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\algoritmos\algoritmos_fc\programasocios\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"../GenerarIndice/Indice.h"
+	"../GenerarIndice/Socios.h"
+	"../GenerarIndice/Fecha.h"
+
+1700600884 source:c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\algoritmos\algoritmos_fc\generarindice\fecha.c
+	<stdio.h>
+	"Fecha.h"
+
+1700585032 source:c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\algoritmos\algoritmos_fc\generarindice\indice.c
+	"Indice.h"
+
+1700522568 source:c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\algoritmos\algoritmos_fc\generarindice\lista.c
+	"Lista.h"
+
+1700261054 source:c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\algoritmos\algoritmos_fc\generarindice\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"Indice.h"
+	"Fecha.h"
+	"Socios.h"
+	"funciones.h"
+
+1700261054 c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\algoritmos\algoritmos_fc\generarindice\funciones.h
+	"Indice.h"
+
+1700408756 source:c:\users\emi\desktop\algoritmos y estructura de datos\tpdefinitivo\algoritmos_fc\generarindice\fecha.c
+	<stdio.h>
+	"Fecha.h"
+
+1699564922 c:\users\emi\desktop\algoritmos y estructura de datos\tpdefinitivo\algoritmos_fc\generarindice\fecha.h
+
+1700585032 source:c:\users\emi\desktop\algoritmos y estructura de datos\tpdefinitivo\algoritmos_fc\generarindice\indice.c
+	"Indice.h"
+
+1700522634 c:\users\emi\desktop\algoritmos y estructura de datos\tpdefinitivo\algoritmos_fc\generarindice\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+
+1700516878 c:\users\emi\desktop\algoritmos y estructura de datos\tpdefinitivo\algoritmos_fc\generarindice\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700522568 source:c:\users\emi\desktop\algoritmos y estructura de datos\tpdefinitivo\algoritmos_fc\generarindice\lista.c
+	"Lista.h"
+
+1700518042 source:c:\users\emi\desktop\algoritmos y estructura de datos\tpdefinitivo\algoritmos_fc\programasocios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1700518042 c:\users\emi\desktop\algoritmos y estructura de datos\tpdefinitivo\algoritmos_fc\programasocios\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"../GenerarIndice/Indice.h"
+	"../GenerarIndice/Socios.h"
+	"../GenerarIndice/Fecha.h"
+
+1699568418 c:\users\emi\desktop\algoritmos y estructura de datos\tpdefinitivo\algoritmos_fc\generarindice\socios.h
+	"Fecha.h"
+
+1700585750 source:c:\users\emi\desktop\algoritmos y estructura de datos\tpdefinitivo\algoritmos_fc\programasocios\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"../GenerarIndice/Indice.h"
+	"../GenerarIndice/Socios.h"
+	"../GenerarIndice/Fecha.h"
+
+1700600884 source:e:\descargas\algoritmos_fc\generarindice\fecha.c
+	<stdio.h>
+	"Fecha.h"
+
+1699564922 e:\descargas\algoritmos_fc\generarindice\fecha.h
+
+1700585032 source:e:\descargas\algoritmos_fc\generarindice\indice.c
+	"Indice.h"
+
+1700522634 e:\descargas\algoritmos_fc\generarindice\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+
+1700516878 e:\descargas\algoritmos_fc\generarindice\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700522568 source:e:\descargas\algoritmos_fc\generarindice\lista.c
+	"Lista.h"
+
+1700518042 source:e:\descargas\algoritmos_fc\programasocios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1700600477 e:\descargas\algoritmos_fc\programasocios\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"../GenerarIndice/Indice.h"
+	"../GenerarIndice/Socios.h"
+	"../GenerarIndice/Fecha.h"
+
+1699568418 e:\descargas\algoritmos_fc\generarindice\socios.h
+	"Fecha.h"
+
+1700600715 source:e:\descargas\algoritmos_fc\programasocios\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"../GenerarIndice/Indice.h"
+	"../GenerarIndice/Socios.h"
+	"../GenerarIndice/Fecha.h"
+
+1700600884 source:c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fc\generarindice\fecha.c
+	<stdio.h>
+	"Fecha.h"
+
+1699564922 c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fc\generarindice\fecha.h
+
+1718753848 source:c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fc\generarindice\indice.c
+	"Indice.h"
+
+1718461942 c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fc\generarindice\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TDAArbol.h"
+
+1719020970 c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fc\generarindice\tdaarbol.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1719155480 source:c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fc\programasocios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"funciones.h"
+
+1719155685 c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fc\programasocios\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"../GenerarIndice/Indice.h"
+	"../GenerarIndice/Socios.h"
+	"../GenerarIndice/Fecha.h"
+
+1718746579 c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fc\generarindice\socios.h
+	"Fecha.h"
+
+1719155631 source:c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fc\programasocios\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"funciones.h"
+	"../GenerarIndice/Indice.h"
+	"../GenerarIndice/Socios.h"
+	"../GenerarIndice/Fecha.h"
+	"Lista.h"
+
+1719021350 source:c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fc\generarindice\tdaarbol.c
+	"TDAArbol.h"
+
+1715130051 source:c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fc\programasocios\lista.c
+	"Lista.h"
+
+1718641493 c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fc\programasocios\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700600886 source:d:\facultad\algoritmos\algoritmos_fc\generarindice\fecha.c
+	<stdio.h>
+	"Fecha.h"
+
+1699564922 d:\facultad\algoritmos\algoritmos_fc\generarindice\fecha.h
+
+1718753850 source:d:\facultad\algoritmos\algoritmos_fc\generarindice\indice.c
+	"Indice.h"
+
+1718461944 d:\facultad\algoritmos\algoritmos_fc\generarindice\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TDAArbol.h"
+
+1719020972 d:\facultad\algoritmos\algoritmos_fc\generarindice\tdaarbol.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1719021352 source:d:\facultad\algoritmos\algoritmos_fc\generarindice\tdaarbol.c
+	"TDAArbol.h"
+
+1719196290 source:d:\facultad\algoritmos\algoritmos_fc\programasocios\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"funciones.h"
+	"../GenerarIndice/Indice.h"
+	"../GenerarIndice/Socios.h"
+	"../GenerarIndice/Fecha.h"
+	"Lista.h"
+
+1719155686 d:\facultad\algoritmos\algoritmos_fc\programasocios\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"../GenerarIndice/Indice.h"
+	"../GenerarIndice/Socios.h"
+	"../GenerarIndice/Fecha.h"
+
+1718746580 d:\facultad\algoritmos\algoritmos_fc\generarindice\socios.h
+	"Fecha.h"
+
+1718641494 d:\facultad\algoritmos\algoritmos_fc\programasocios\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1715130052 source:d:\facultad\algoritmos\algoritmos_fc\programasocios\lista.c
+	"Lista.h"
+
+1719155482 source:d:\facultad\algoritmos\algoritmos_fc\programasocios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"funciones.h"
+
+1700600886 source:c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fcfinal\algoritmos_fc\generarindice\fecha.c
+	<stdio.h>
+	"Fecha.h"
+
+1699564922 c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fcfinal\algoritmos_fc\generarindice\fecha.h
+
+1718753850 source:c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fcfinal\algoritmos_fc\generarindice\indice.c
+	"Indice.h"
+
+1718461944 c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fcfinal\algoritmos_fc\generarindice\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TDAArbol.h"
+
+1719020972 c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fcfinal\algoritmos_fc\generarindice\tdaarbol.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1719021352 source:c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fcfinal\algoritmos_fc\generarindice\tdaarbol.c
+	"TDAArbol.h"
+
+1715130052 source:c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fcfinal\algoritmos_fc\programasocios\lista.c
+	"Lista.h"
+
+1718641494 c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\algoritmos_fcfinal\algoritmos_fc\programasocios\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700600886 source:c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\tp\algoritmos_fc\generarindice\fecha.c
+	<stdio.h>
+	"Fecha.h"
+
+1699564922 c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\tp\algoritmos_fc\generarindice\fecha.h
+
+1718753850 source:c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\tp\algoritmos_fc\generarindice\indice.c
+	"Indice.h"
+
+1718461944 c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\tp\algoritmos_fc\generarindice\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TDAArbol.h"
+
+1719020972 c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\tp\algoritmos_fc\generarindice\tdaarbol.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1719021352 source:c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\tp\algoritmos_fc\generarindice\tdaarbol.c
+	"TDAArbol.h"
+
+1719328136 source:c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\tp\algoritmos_fc\programasocios\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"funciones.h"
+	"../GenerarIndice/Indice.h"
+	"../GenerarIndice/Socios.h"
+	"../GenerarIndice/Fecha.h"
+	"Lista.h"
+
+1719155686 c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\tp\algoritmos_fc\programasocios\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"../GenerarIndice/Indice.h"
+	"../GenerarIndice/Socios.h"
+	"../GenerarIndice/Fecha.h"
+
+1718746580 c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\tp\algoritmos_fc\generarindice\socios.h
+	"Fecha.h"
+
+1718641494 c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\tp\algoritmos_fc\programasocios\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1715130052 source:c:\users\juanc\onedrive - universidad nacional de la matanza\1c 2024\algoritmos\tp\algoritmos_fc\programasocios\lista.c
+	"Lista.h"
+
