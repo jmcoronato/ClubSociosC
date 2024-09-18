@@ -15,5 +15,5 @@ ClubSociosC es un programa de consola implementado en C que gestiona una base de
 
 ## Compilación
 
-- **SOLO LA PRIMERA EJECUCION** Para compilar el programa, primero abrir el ejecutable **GenerarIndice.exe" en la carpeta ClubSociosC\GenerarIndice\bin\Debug para que se genere el indice y se guarde en el archivo socios.idx.
+- **SOLO LA PRIMERA EJECUCION** Para compilar el programa, primero abrir el ejecutable "GenerarIndice.exe" en la carpeta ClubSociosC\GenerarIndice\bin\Debug para que se genere el indice y se guarde en el archivo socios.idx.
 - Luego, cada vez que se quiera ejecutar el programa, abrir el ejecutable de la ruta "ClubSociosC\ProgramaSocios\bin\Debug\ProgramaSocios.exe"
